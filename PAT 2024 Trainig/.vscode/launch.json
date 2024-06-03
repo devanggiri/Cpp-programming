@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rightviewbintree",
+            "request": "launch",
+            "mainClass": "rightviewbintree",
+            "projectName": "PAT 2024 Trainig_b6531f38"
+        },
+        {
+            "type": "java",
             "name": "StackUsingQueues",
             "request": "launch",
             "mainClass": "StackUsingQueues",
