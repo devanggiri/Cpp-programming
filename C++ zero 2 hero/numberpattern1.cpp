@@ -8,11 +8,11 @@ int main() {
 
     int i = 1;
 
-    while(i<=n) {
+    while(i<=n) { //rows
 
         int j = 1;
-        while(j<=n) {
-            cout << i;
+        while(j<=n) { //columns
+            cout << i;  //cout: i, j, n-j+1
             j = j + 1;
         }
         cout<<endl;
